@@ -1,1 +1,1 @@
-javascript
+web
